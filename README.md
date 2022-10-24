@@ -1,2 +1,11 @@
-# chromex
-A github repository for school. Containing: cheats, exploits, websites, and more. [updated consistantly]
+# ChromeX Description:
+A GitHub repository for school.
+
+# What We Provide:
+
+## - School Cheats
+## - Exploits
+## - Proxys/Games [Maybe]
+## - Bookmarklets
+## - And more!
+
