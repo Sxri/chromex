@@ -16,4 +16,3 @@ A GitHub repository for school.
 # Questions/Concerns/Issues
 
 ### Any issues, concerns, or questions? Please start a new thread in the discussions tab located at the top of this website. Contributers, Founders, or even guests and members may respond with answers aswell. Direct messages are currently unavailable.
-
